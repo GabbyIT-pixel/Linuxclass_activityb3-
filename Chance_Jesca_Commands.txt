@@ -1,0 +1,7 @@
+Chance Jesca Bizima
+ls
+pwd 
+ chmod 
+ chown 
+ grep 
+ ll 
